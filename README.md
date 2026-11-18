@@ -35,3 +35,6 @@ Node numbering: `i = (g-1)*Nr + ir`. Radial neighbours are `i-1`, `i+1`; angular
 neighbours are `i-Nr`, `i+Nr`.
 
 Reference result (Nr = 6, Nth = 19): 66 iterations, Tmax = 96.665 degC, Tmin = 7 degC.
+![Temperature field](images/heatmap.png)
+![Grid and node numbering](images/mesh.png)
+![Node temperatures](images/node_temperatures.png)
